@@ -39,3 +39,15 @@ C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\obj\Debug\net8.0\refint\SimplyA
 C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\obj\Debug\net8.0\SimplyApiGateway.pdb
 C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\obj\Debug\net8.0\SimplyApiGateway.genruntimeconfig.cache
 C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\obj\Debug\net8.0\ref\SimplyApiGateway.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Esperimenti\SimplyApiGateway\SimplyApiGateway\obj\Debug\net8.0\SimplyApiGateway.sourcelink.json
