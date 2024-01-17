@@ -1,6 +1,6 @@
-@SimplyApiGateway_HostAddress = http://localhost:5022
+@SimplyApiGateway_HostAddress = https://localhost:7285
 
-GET {{SimplyApiGateway_HostAddress}}/weatherforecast/
+GET {{SimplyApiGateway_HostAddress}}/gateway/wheather
 Accept: application/json
 
 ###
