@@ -10,3 +10,4 @@ C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtToken
 C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\refint\JwtTokenAuthentication.dll
 C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.pdb
 C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\ref\JwtTokenAuthentication.dll
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.sourcelink.json
