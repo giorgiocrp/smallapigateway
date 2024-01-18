@@ -1,0 +1,22 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7285"
+  },
+    "Routes": [
+      {
+        "UpstreamPathTemplate": "/gateway/wheather",
+        "UpstreamHttpMethod": [ "Get" ],
+        "DownstreamPathTemplate": "/api/WeatherForecast",
+        "DownstreamScheme": "https",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 7283
+          }
+        ],
+        "FileCacheOptions": {
+          "TtlSeconds": 10
+        }
+      }
+    ]  
+  }
