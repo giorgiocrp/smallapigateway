@@ -17,4 +17,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JwtTokenAuthentication\JwtTokenAuthentication.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -14,6 +14,30 @@
             "Port": 7283
           }
         ],
+        "AuthenticationOptions": {
+          "AuthenticationProviderKey": "Bearer"
+        },
+        "FileCacheOptions": {
+          "TtlSeconds": 10
+        }
+      },
+      {
+        "UpstreamPathTemplate": "/gateway/wheatheradmin",
+        "UpstreamHttpMethod": [ "Get" ],
+        "DownstreamPathTemplate": "/api/WeatherForecast",
+        "DownstreamScheme": "https",
+        "DownstreamHostAndPorts": [
+          {
+            "Host": "localhost",
+            "Port": 7283
+          }
+        ],
+        "AuthenticationOptions": {
+          "AuthenticationProviderKey": "Bearer"
+        },
+        "RouteClaimsRequirement": {
+          "role": "Administrator"
+        },
         "FileCacheOptions": {
           "TtlSeconds": 10
         }
