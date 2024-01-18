@@ -1,0 +1,12 @@
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\bin\Debug\net8.0\JwtTokenAuthentication.deps.json
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\bin\Debug\net8.0\JwtTokenAuthentication.dll
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\bin\Debug\net8.0\JwtTokenAuthentication.pdb
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.csproj.AssemblyReference.cache
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.AssemblyInfoInputs.cache
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.AssemblyInfo.cs
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.csproj.CoreCompileInputs.cache
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.dll
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\refint\JwtTokenAuthentication.dll
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\JwtTokenAuthentication.pdb
+C:\Esperimenti\SimplyApiGateway\JwtTokenAuthentication\obj\Debug\net8.0\ref\JwtTokenAuthentication.dll
